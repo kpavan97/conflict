@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 conflict
 thisis a
 message
+=======
+hello 
+this is a conilct
+>>>>>>> fb
